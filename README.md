@@ -12,5 +12,5 @@
 * 自学任务
   * 完成上面两个自学任务
 ### 练习题步骤
-1. git clone 题目 [tws-practice/collection-calculate-camp](tws-practice/collection-calculate-camp) 到本地开发环境或者 Eclipse Che 上。
+1. git clone 题目 [tws-practice/collection-calculate-camp](https://github.com/tws-practice/collection-calculate-camp) 到本地开发环境或者 Eclipse Che 上。
 2. 完成practices代码以使specs测试通过。
